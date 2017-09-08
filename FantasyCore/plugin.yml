@@ -1,0 +1,25 @@
+name: FantasyMC
+author: Mystic_Mark_
+website: www.FantasyMC.eu
+main: eu.FantasyMC.core.main.FantasyMCCore
+version: 1.0
+depend: [WorldEdit]
+commands:
+   rank:
+   list:
+   vanish:
+   updateperms:
+   announce:
+   broadcast:
+   message:
+      aliases: [msg, m, tell, whisper]
+   tell:
+   msg:
+   t:
+   whisper:
+   reply:
+     aliases: [r]
+   game:
+   leave:
+     aliases: [quit]
+   map:
